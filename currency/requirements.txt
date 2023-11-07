@@ -1,0 +1,15 @@
+blinker
+certifi
+chardet
+Click
+Flask
+Flask-DebugToolbar
+forex-python
+idna
+itsdangerous
+Jinja2
+MarkupSafe
+requests
+simplejson
+urllib3
+Werkzeug
